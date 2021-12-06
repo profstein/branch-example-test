@@ -5,3 +5,4 @@ This is a sample project to practice branching and merging with a group. Look at
 ## People
 
 1. Chris 
+2. Imani
